@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\bin\Debug\net8.0\ForeachExec.exe
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\bin\Debug\net8.0\ForeachExec.deps.json
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\bin\Debug\net8.0\ForeachExec.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\bin\Debug\net8.0\ForeachExec.dll
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\bin\Debug\net8.0\ForeachExec.pdb
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.dll
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\refint\ForeachExec.dll
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.pdb
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ForeachExec.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\ForeachExec\ForeachExec\obj\Debug\net8.0\ref\ForeachExec.dll
